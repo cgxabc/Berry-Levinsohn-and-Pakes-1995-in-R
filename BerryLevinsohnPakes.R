@@ -4,7 +4,7 @@ BerryLevinsohnPakes <- function(dat, mkt.id.fld = "mkt.id", prod.id.fld = "prod.
 	# n.sim = number of simulated "indviduals" per market 
 	# sigma guess may be missing
 	#
-	# Required packages (installed as the fucntion runs):
+	# Required packages (installed as the function runs):
 	# SQUAREM, BB, AER
 	#
 	# Based on code written by Aviv Nevo, May 1998.
